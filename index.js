@@ -13,7 +13,6 @@ function constructQuestions () {
       type: 'input',
       name: 'logoText',
       message: 'Enter up to three characters for the text in the logo:',
-      default: 'LCM',
       validate: logoTextValidator
     },
     {

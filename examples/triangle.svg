@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+<polygon points="150,18 244,182 56,182" fill="DarkViolet" />
+<text x="50%" y="50%" font-family="Times New Roman, Times, serif" 
+font-size="80px" fill="#252f9c" text-anchor="middle" alignment-baseline="middle" 
+dominant-baseline="central">JRE</text>
+</svg>
